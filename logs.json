@@ -1,0 +1,38 @@
+{
+  "701494775060103300": [
+    {
+      "dono_ticket": "701494775060103300",
+      "fechou_ticket": "701494775060103300",
+      "assumido": "701494775060103300",
+      "motivo": "Teste",
+      "codigo": "477854"
+    }
+  ],
+  "1153759429024559256": [
+    {
+      "dono_ticket": "1153759429024559256",
+      "fechou_ticket": "701494775060103300",
+      "assumido": "Ninguem Assumiu",
+      "motivo": "GAY",
+      "codigo": "BF57CD"
+    }
+  ],
+  "828358913551761408": [
+    {
+      "dono_ticket": "828358913551761408",
+      "fechou_ticket": "828358913551761408",
+      "assumido": "828358913551761408",
+      "motivo": "DEIXA O LIKE",
+      "codigo": "ACF890"
+    }
+  ],
+  "863826204606988299": [
+    {
+      "dono_ticket": "863826204606988299",
+      "fechou_ticket": "863826204606988299",
+      "assumido": "863826204606988299",
+      "motivo": "video novo",
+      "codigo": "C661F4"
+    }
+  ]
+}
